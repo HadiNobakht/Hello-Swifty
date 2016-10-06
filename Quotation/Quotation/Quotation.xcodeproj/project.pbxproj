@@ -13,6 +13,7 @@
 		25BAFE851DA683A60075800D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25BAFE841DA683A60075800D /* Assets.xcassets */; };
 		25BAFE881DA683A60075800D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25BAFE861DA683A60075800D /* LaunchScreen.storyboard */; };
 		25BAFE901DA6855F0075800D /* WebYekan.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25BAFE8F1DA6855F0075800D /* WebYekan.ttf */; };
+		25BAFE921DA6985B0075800D /* IRANSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25BAFE911DA6985B0075800D /* IRANSans.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		25BAFE871DA683A60075800D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25BAFE891DA683A60075800D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25BAFE8F1DA6855F0075800D /* WebYekan.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WebYekan.ttf; sourceTree = "<group>"; };
+		25BAFE911DA6985B0075800D /* IRANSans.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = IRANSans.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				25BAFE861DA683A60075800D /* LaunchScreen.storyboard */,
 				25BAFE891DA683A60075800D /* Info.plist */,
 				25BAFE8F1DA6855F0075800D /* WebYekan.ttf */,
+				25BAFE911DA6985B0075800D /* IRANSans.ttf */,
 			);
 			path = Quotation;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				25BAFE881DA683A60075800D /* LaunchScreen.storyboard in Resources */,
+				25BAFE921DA6985B0075800D /* IRANSans.ttf in Resources */,
 				25BAFE851DA683A60075800D /* Assets.xcassets in Resources */,
 				25BAFE901DA6855F0075800D /* WebYekan.ttf in Resources */,
 				25BAFE831DA683A60075800D /* Main.storyboard in Resources */,
