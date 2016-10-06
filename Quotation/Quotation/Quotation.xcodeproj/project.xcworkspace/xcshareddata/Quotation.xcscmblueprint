@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C4C61A742059617ABB2402D272204DFBF372F57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DAF8E1E61DAE56639B10AEA1D4C02883F74CAFF" : 9223372036854775807,
+    "8C4C61A742059617ABB2402D272204DFBF372F57" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F38AD55-59FF-4F89-9BB6-2B6080D1FB82",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DAF8E1E61DAE56639B10AEA1D4C02883F74CAFF" : "",
+    "8C4C61A742059617ABB2402D272204DFBF372F57" : "Hello-Swifty\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Quotation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Quotation\/Quotation\/Quotation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HadiNobakht\/Hello-Swifty.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C4C61A742059617ABB2402D272204DFBF372F57"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HadiNobakht\/HelloWorld-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DAF8E1E61DAE56639B10AEA1D4C02883F74CAFF"
+    }
+  ]
+}
